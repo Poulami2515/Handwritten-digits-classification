@@ -1,4 +1,4 @@
-# Handwritten-digits-classification-using-logistic-regression-
+# Handwritten-digits-classification
 
 A logistic regression model is trained to identify handwritten digits from the MNIST dataset. The dataset consists of 28px by 28px grayscale images of handwritten digits (0 to 9) and labels for each image indicating which digit it represents.
 
